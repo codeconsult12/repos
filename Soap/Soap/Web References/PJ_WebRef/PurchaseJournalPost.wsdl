@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:tns="urn:microsoft-dynamics-schemas/codeunit/PurchaseJournalPost" targetNamespace="urn:microsoft-dynamics-schemas/codeunit/PurchaseJournalPost" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <schema elementFormDefault="qualified" targetNamespace="urn:microsoft-dynamics-schemas/codeunit/PurchaseJournalPost" xmlns="http://www.w3.org/2001/XMLSchema">
+      <element name="DeleteCurrentBatch">
+        <complexType>
+          <sequence>
+            <element minOccurs="1" maxOccurs="1" name="batchname" type="string" />
+          </sequence>
+        </complexType>
+      </element>
+      <element name="DeleteCurrentBatch_Result">
+        <complexType>
+          <sequence>
+            <element minOccurs="1" maxOccurs="1" name="batchname" type="string" />
+          </sequence>
+        </complexType>
+      </element>
+      <element name="RunCodeUnit">
+        <complexType>
+          <sequence>
+            <element minOccurs="1" maxOccurs="1" name="batchname" type="string" />
+          </sequence>
+        </complexType>
+      </element>
+      <element name="RunCodeUnit_Result">
+        <complexType>
+          <sequence>
+            <element minOccurs="1" maxOccurs="1" name="return_value" type="string" />
+            <element minOccurs="1" maxOccurs="1" name="batchname" type="string" />
+          </sequence>
+        </complexType>
+      </element>
+    </schema>
+  </types>
+  <message name="DeleteCurrentBatch">
+    <part name="parameters" element="tns:DeleteCurrentBatch" />
+  </message>
+  <message name="DeleteCurrentBatch_Result">
+    <part name="parameters" element="tns:DeleteCurrentBatch_Result" />
+  </message>
+  <message name="RunCodeUnit">
+    <part name="parameters" element="tns:RunCodeUnit" />
+  </message>
+  <message name="RunCodeUnit_Result">
+    <part name="parameters" element="tns:RunCodeUnit_Result" />
+  </message>
+  <portType name="PurchaseJournalPost_Port">
+    <operation name="DeleteCurrentBatch">
+      <input name="DeleteCurrentBatch" message="tns:DeleteCurrentBatch" />
+      <output name="DeleteCurrentBatch_Result" message="tns:DeleteCurrentBatch_Result" />
+    </operation>
+    <operation name="RunCodeUnit">
+      <input name="RunCodeUnit" message="tns:RunCodeUnit" />
+      <output name="RunCodeUnit_Result" message="tns:RunCodeUnit_Result" />
+    </operation>
+  </portType>
+  <binding name="PurchaseJournalPost_Binding" type="tns:PurchaseJournalPost_Port">
+    <binding transport="http://schemas.xmlsoap.org/soap/http" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+    <operation name="DeleteCurrentBatch">
+      <operation soapAction="urn:microsoft-dynamics-schemas/codeunit/PurchaseJournalPost:DeleteCurrentBatch" style="document" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+      <input name="DeleteCurrentBatch">
+        <body use="literal" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+      </input>
+      <output name="DeleteCurrentBatch_Result">
+        <body use="literal" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+      </output>
+    </operation>
+    <operation name="RunCodeUnit">
+      <operation soapAction="urn:microsoft-dynamics-schemas/codeunit/PurchaseJournalPost:RunCodeUnit" style="document" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+      <input name="RunCodeUnit">
+        <body use="literal" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+      </input>
+      <output name="RunCodeUnit_Result">
+        <body use="literal" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+      </output>
+    </operation>
+  </binding>
+  <service name="PurchaseJournalPost">
+    <port name="PurchaseJournalPost_Port" binding="tns:PurchaseJournalPost_Binding">
+      <address location="https://api.businesscentral.dynamics.com/v2.0/d8cf23a2-17d9-41d8-a10d-9aa603abf54d/Production/WS/ReplaceWithAPercentEncodedCompanyName/Codeunit/PurchaseJournalPost" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+    </port>
+  </service>
+</definitions>

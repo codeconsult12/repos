@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\TestAPI\TestAPI\bin\Debug\TestAPI.exe.config
+C:\Users\HP\source\repos\TestAPI\TestAPI\bin\Debug\TestAPI.exe
+C:\Users\HP\source\repos\TestAPI\TestAPI\bin\Debug\TestAPI.pdb
+C:\Users\HP\source\repos\TestAPI\TestAPI\obj\Debug\TestAPI.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TestAPI\TestAPI\obj\Debug\TestAPI.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TestAPI\TestAPI\obj\Debug\TestAPI.exe
+C:\Users\HP\source\repos\TestAPI\TestAPI\obj\Debug\TestAPI.pdb

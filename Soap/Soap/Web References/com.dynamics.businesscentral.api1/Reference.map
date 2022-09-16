@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/Codeunit/PurchaseJournalPost?tenant=msft1a6720t19104323&amp;aid=FIN" filename="PurchaseJournalPost.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>

@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Add exampe\Add exampe\bin\Debug\Add exampe.exe.config
+C:\Users\HP\source\repos\Add exampe\Add exampe\bin\Debug\Add exampe.exe
+C:\Users\HP\source\repos\Add exampe\Add exampe\bin\Debug\Add exampe.pdb
+C:\Users\HP\source\repos\Add exampe\Add exampe\obj\Debug\Add exampe.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Add exampe\Add exampe\obj\Debug\Add exampe.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Add exampe\Add exampe\obj\Debug\Add exampe.exe
+C:\Users\HP\source\repos\Add exampe\Add exampe\obj\Debug\Add exampe.pdb

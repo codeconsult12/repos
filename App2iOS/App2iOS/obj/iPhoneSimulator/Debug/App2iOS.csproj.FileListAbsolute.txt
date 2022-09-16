@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\App2iOS\App2iOS\bin\iPhoneSimulator\Debug\App2iOS.exe
+C:\Users\HP\source\repos\App2iOS\App2iOS\bin\iPhoneSimulator\Debug\App2iOS.pdb
+C:\Users\HP\source\repos\App2iOS\App2iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\HP\source\repos\App2iOS\App2iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\HP\source\repos\App2iOS\App2iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\HP\source\repos\App2iOS\App2iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\HP\source\repos\App2iOS\App2iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\HP\source\repos\App2iOS\App2iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\HP\source\repos\App2iOS\App2iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\HP\source\repos\App2iOS\App2iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\HP\source\repos\App2iOS\App2iOS\obj\iPhoneSimulator\Debug\App2iOS.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\App2iOS\App2iOS\obj\iPhoneSimulator\Debug\App2iOS.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\App2iOS\App2iOS\obj\iPhoneSimulator\Debug\App2iOS.csproj.CopyComplete
+C:\Users\HP\source\repos\App2iOS\App2iOS\obj\iPhoneSimulator\Debug\App2iOS.exe
+C:\Users\HP\source\repos\App2iOS\App2iOS\obj\iPhoneSimulator\Debug\App2iOS.pdb

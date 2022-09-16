@@ -1,0 +1,477 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Soap.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ItemCharges_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ItemCharges</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_PaymentJournals_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/PaymentJournals</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingQBOSyncAuth_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingQBOSyncAuth</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_SummaryProvider" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Codeunit/SummaryProvider</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_VendorBankAccountCard_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/VendorBankAccountCard</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ItemsByLocation_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ItemsByLocation</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingLanguages_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingLanguages</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ExcelTemplateTrialBalance_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ExcelTemplateTrialBalance</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ExcelTemplateAgedAccountsReceivable_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ExcelTemplateAgedAccountsReceivable</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_InvoiceReminder_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/InvoiceReminder</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingTaxGroups_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingTaxGroups</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Power_BI_Top_5_Opportunities_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Power_BI_Top_5_Opportunities</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Job_Task_Lines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Job_Task_Lines</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingCountryRegion_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingCountryRegion</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingAttachments_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingAttachments</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ValueEntriesPreview_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ValueEntriesPreview</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_BinContentsList_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/BinContentsList</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_IncomingDocumentPage189_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/IncomingDocumentPage189</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_CommentSheet_67_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/CommentSheet_67</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_PurchaseLinesPage518_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/PurchaseLinesPage518</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_workflowPurchaseDocumentLines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/workflowPurchaseDocumentLines</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_SourceDocuments_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/SourceDocuments</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_PurchaseJournals_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/PurchaseJournals</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_salesDocumentLines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/salesDocumentLines</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ExcelTemplateIncomeStatement_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ExcelTemplateIncomeStatement</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ItemLedgerEntriesPage38_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ItemLedgerEntriesPage38</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_CommentSheet_Page124_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/CommentSheet_Page124</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingTestMail_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingTestMail</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_G_L_Account_Card_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/G_L_Account_Card</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingPDFs_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingPDFs</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Journals_Page5482_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Journals_Page5482</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Accounts_Page5480_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Accounts_Page5480</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_workflowWebhookSubscriptions_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/workflowWebhookSubscriptions</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_AccountTable_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/AccountTable</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingEmailPreview_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingEmailPreview</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_CustomersPage22_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/CustomersPage22</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ExcelTemplateViewCompanyInformation_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ExcelTemplateViewCompanyInformation</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_salesDocuments_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/salesDocuments</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingVATSetup_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingVATSetup</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_VLE_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/VLE</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_PayJ_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/PayJ</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_PostingAccounts_Page1918_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/PostingAccounts_Page1918</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingSMTPMailSetup_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingSMTPMailSetup</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_AccountantPortalActivityCues_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/AccountantPortalActivityCues</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingSalesInvoiceOverview_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingSalesInvoiceOverview</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_General_Ledger_Entries_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/General_Ledger_Entries</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_VendorLedgerEntriesPage29_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/VendorLedgerEntriesPage29</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingExportInvoices_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingExportInvoices</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_GJ_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/GJ</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_InvoiceDocument_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/InvoiceDocument</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingSyncServicesSetting_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingSyncServicesSetting</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Power_BI_Job_Profitability_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Power_BI_Job_Profitability</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Power_BI_Aged_Inventory_Chart_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Power_BI_Aged_Inventory_Chart</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ItemBinContents_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ItemBinContents</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ExcelTemplateCashFlowStatement_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ExcelTemplateCashFlowStatement</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_powerbifinance_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/powerbifinance</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Job_List_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Job_List</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ExchangeServiceSetup" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Codeunit/ExchangeServiceSetup</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_BankAccountCard_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/BankAccountCard</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingGeneralSettings_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingGeneralSettings</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_SystemService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/SystemService?tenant=msft1a6720t19104323&amp;aid=FIN</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_DimensionValues_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/DimensionValues</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_workflowSalesDocuments_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/workflowSalesDocuments</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_workflowGenJournalLines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/workflowGenJournalLines</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingCustomers_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingCustomers</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingUnitsOfMeasure_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingUnitsOfMeasure</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_GLE_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/GLE</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Chart_of_Accounts_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Chart_of_Accounts</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_BinList_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/BinList</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_CommentSheet_Page454_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/CommentSheet_Page454</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_GeneralLedgerEntries_Page20018_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/GeneralLedgerEntries_Page20018</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_VendorLocations_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/VendorLocations</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ExcelTemplateBalanceSheet_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ExcelTemplateBalanceSheet</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_GL_Account_Card_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/GL_Account_Card</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_IntercompanyGeneralJournal_Page610_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/IntercompanyGeneralJournal_Page610</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ItemsByLocationMatrix_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ItemsByLocationMatrix</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ChartOfAccounts_GL_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ChartOfAccounts_GL</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingPaymentMethods_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingPaymentMethods</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_GeneralJournalTemplates_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/GeneralJournalTemplates</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_purchaseDocuments_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/purchaseDocuments</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingPaymentTerms_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingPaymentTerms</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_workflowPurchaseDocuments_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/workflowPurchaseDocuments</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ItemAvailabilityByLocation_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ItemAvailabilityByLocation</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_GL_BalanceByDimension_Page408_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/GL_BalanceByDimension_Page408</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ItemsAPIv2_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ItemsAPIv2</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_SourceCodes_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/SourceCodes</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingSalesInvoices_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingSalesInvoices</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_AccountantPortalUserTasks_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/AccountantPortalUserTasks</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_CommentSheet_99000838_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/CommentSheet_99000838</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_DetailedVendorLedgerEntries_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/DetailedVendorLedgerEntries</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_CommentSheet_Page66_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/CommentSheet_Page66</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingSalesQuotes_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingSalesQuotes</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_workflowItems_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/workflowItems</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_PostedSalesShipment_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/PostedSalesShipment</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Payment_Reconciliation_Journal_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Payment_Reconciliation_Journal</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Power_BI_Aged_Acc_Receivable_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Power_BI_Aged_Acc_Receivable</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_StandardGeneralJournal_Page751_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/StandardGeneralJournal_Page751</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Power_BI_Job_Act_v_Budg_Cost_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Power_BI_Job_Act_v_Budg_Cost</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_BinContents_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/BinContents</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_WarehouseEntries_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/WarehouseEntries</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_RecurringGeneralJournals_Page283_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/RecurringGeneralJournals_Page283</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_PostedSalesShipmentLines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/PostedSalesShipmentLines</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_AccountantPortalFinanceCues_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/AccountantPortalFinanceCues</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingEmailSetting_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingEmailSetting</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_GL_Account_List_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/GL_Account_List</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_workflowGenJournalBatches_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/workflowGenJournalBatches</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingSalesTaxSetup_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingSalesTaxSetup</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Dimensions_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Dimensions</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Job_Planning_Lines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Job_Planning_Lines</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_CommentList_Page68_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/CommentList_Page68</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingTaxAreas_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingTaxAreas</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ExcelTemplateRetainedEarnings_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ExcelTemplateRetainedEarnings</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_workflowSalesDocumentLines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/workflowSalesDocumentLines</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingKPIs_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingKPIs</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_WorkflowActionResponse" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Codeunit/WorkflowActionResponse</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_workflowVendors_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/workflowVendors</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Bins_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Bins</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_SAT_Account_Codes_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/SAT_Account_Codes</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_GJB_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/GJB</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Comments_Page9104_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Comments_Page9104</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Vendor_Card_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Vendor_Card</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_VendorPurchaseLines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/VendorPurchaseLines</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Power_BI_Aged_Acc_Payable_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Power_BI_Aged_Acc_Payable</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Payment_Journals_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Payment_Journals</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Power_BI_Sales_Pipeline_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Power_BI_Sales_Pipeline</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ItemsPage32_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ItemsPage32</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_CustomerCard_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/CustomerCard</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_UserTaskSetComplete_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/UserTaskSetComplete</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_AvailablePurchaseLines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/AvailablePurchaseLines</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_PJ_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/PJ</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ExcelTemplateAgedAccountsPayable_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ExcelTemplateAgedAccountsPayable</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_StandardGeneralJournals_Page750_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/StandardGeneralJournals_Page750</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_purchaseDocumentLines_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/purchaseDocumentLines</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_CompanySetupService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Codeunit/CompanySetupService</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingTaxRates_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingTaxRates</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Locations_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Locations</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_GeneralLedgerTransactions_Page4091_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/GeneralLedgerTransactions_Page4091</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_GenJnl_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/GenJnl</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingContacts_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingContacts</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Power_BI_Job_Act_v_Budg_Price_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Power_BI_Job_Act_v_Budg_Price</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_PurchaseJournalPost" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Codeunit/PurchaseJournalPost</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_LocationCard_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/LocationCard</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_C2Graph_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/C2Graph</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ValueEntriesPage5802_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ValueEntriesPage5802</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ItemVariantsPage5401_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ItemVariantsPage5401</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ItemAvailabilityByVariant_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ItemAvailabilityByVariant</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_VendorBankAccountList_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/VendorBankAccountList</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_nativeInvoicingItems_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/nativeInvoicingItems</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_General_Journals_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/General_Journals</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_workflowCustomers_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/workflowCustomers</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_BinContent_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/BinContent</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Power_BI_Report_Labels_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Power_BI_Report_Labels</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_Purchase_Journals_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/Purchase_Journals</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_CompanyInfo_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/CompanyInfo</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api_ItemChargesPurchPage5805_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Page/ItemChargesPurchPage5805</Value>
+    </Setting>
+    <Setting Name="Soap_com_dynamics_businesscentral_api1_PurchaseJournalPost" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/1a9533fb-c524-4eb7-96c8-fbdc362ac6a0/Production/WS/ReplaceWithAPercentEncodedCompanyName/Codeunit/PurchaseJournalPost</Value>
+    </Setting>
+    <Setting Name="Soap_PJ_WebRef_PurchaseJournalPost" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://api.businesscentral.dynamics.com/v2.0/d8cf23a2-17d9-41d8-a10d-9aa603abf54d/Production/WS/ReplaceWithAPercentEncodedCompanyName/Codeunit/PurchaseJournalPost</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
